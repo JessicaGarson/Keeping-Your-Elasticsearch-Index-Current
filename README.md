@@ -1,1 +1,1 @@
-# Keeping-Your-Elasticsearch-Index-Current-
+# Keeping Your Elasticsearch Index Current
