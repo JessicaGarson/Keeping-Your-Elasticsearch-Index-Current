@@ -81,7 +81,7 @@ def update_new_data(df, es, last_update_date, index_name):
 # Triggered from a message on a Cloud Pub/Sub topic.
 @functions_framework.cloud_event
 def hello_pubsub(cloud_event):
-    index_name = "asteroids_data"
+    index_name = "asteroid_data_set"
     es = connect_to_elastic()
     last_update_date = updated_last(es, index_name)
     print(last_update_date)
