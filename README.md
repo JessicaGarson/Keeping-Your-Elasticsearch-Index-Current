@@ -3,6 +3,7 @@
 This repository contains a Python script designed for automatically updating an Elasticsearch index to ensure the data remains current, especially useful for applications with dynamic data. The script is deployable via Google Cloud Platform (GCP), utilizing Cloud Functions for execution and Cloud Scheduler for periodic updates. 
 
 ## Resources
+* Blog post on [Keeping Your Elasticsearch Index Current with Python and Google Cloud Platform Functions](https://www.elastic.co/search-labs/blog/articles/keeping-your-elasticsearch-index-current-with-python-and-google-cloud-platform-functions)
 * [Jupyter Notebook](https://github.com/elastic/elasticsearch-labs/blob/main/supporting-blog-content/keeping-your-index-current/local_testing.ipynb) for local testing.
 
 
