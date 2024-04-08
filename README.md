@@ -17,3 +17,7 @@ This repository contains a Python script designed for automatically updating an 
     ```
     pip3 install requests pandas elasticsearch notebook
     ```
+
+## Getting help
+
+Let us know if you need if this blog post inspires you to build anything or if you have any questions on our [Discuss forums](https://discuss.elastic.co/) and [the community Slack channel](https://communityinviter.com/apps/elasticstack/elastic-community).
